@@ -1,0 +1,1 @@
+exports.lsb = n => n&-n;
